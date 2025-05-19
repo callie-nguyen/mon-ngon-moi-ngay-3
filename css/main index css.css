@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.row{
+	width: 100%
+}
+
+.w-25{
+	width:23%; padding: 10px; float: left
+}
+.vien{
+	width:100%; min-height: 200px; boder: 1px solid #F08104; padding: 10px; border-radius: 10px; text-align: center
+}
+.img-100{
+	width: 100%; height: 180px
+}
+.mon-an{
+	font-size: 18px; color: black; font-weight: 500
+}
+.gia{
+	color: darkgreen; font-weight: 500
+}

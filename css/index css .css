@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+header{
+	width: 100%; height: 50px; background-color: #ED7915
+}
+.logo{
+	float: left; padding-left: 150px; font-size: 25px; padding-top: 7px
+}
+.logo a{
+	text-decoration: none; color: aliceblue; font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+}
+.logo a:hover{
+	color: #809307
+}
+.menu{
+	float: right; padding-right: 200px; padding-top: 15px
+}
+.menu a{
+	padding: 18px 20px; text-decoration: none; font-size: 17px; color: #FFFFFF
+}
+.menu a:hover{
+	color: #809307
+}
+
+.tieude-lienhe{
+	text-align: center;margin-top: 0px; padding-top: 25px; color: #ED7915; font-size: 25px
+}
+.tieude-lienhe:hover{
+	color: #15ED5C
+}
+.gach-chan{
+	border-bottom: 2px solid #ED7915
+}
+
+
+#contact{
+	width:100%; min-height: 500px; background-image: url("../Image/hinh lien he.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center center
+}
+
+
+
+footer{
+	width: 100%; height: 40px; background-color: #ED7915; text-align: center;color: #FFFFFF; clear: both; padding-top: 15px; font-size: 15px;margin-bottom: 1px
+}
